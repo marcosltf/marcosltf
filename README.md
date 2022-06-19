@@ -2,8 +2,8 @@ Hi!
 I'm a 15y student currently living in Brazil! ![](https://api9.iloveimg.com/v1/download/pdgw6f1h0c7tsg3s14c3rh99z8mxfvnxAtrA0hskwywkdblhlhp8z1y218t69zj5x82sgph8p9p46lAw0w0nkh223tAAffzzfl6l9A7tvsmsdA46w6hx4pkxw6xAbt7zj1q6xnf2zt2ql5A2wm7gtkttrA3Am819kb6Ag0y5r67knm014xhq)
 
 I'm familiar with the following languages:       
-![](https://api4.iloveimg.com/v1/download/9by1z4kk27ld4h29j8xvj5A1Atzhzfn37kx3vnm75zcb1j67xjbA3z0t5l6jwygjz4hcgrb3d3x7ptpc28fx576h2k60mfq7sfspbcy2n6m3mcn01dj1lvnv7h0w36vyzztt0hy3A0nA751dwd3tfnvf6k2tbc3lrglw14n35ykc5c1Am5m1)       
-![](https://api9.iloveimg.com/v1/download/kk3ty612lmtpg3wrgq1hg1mcrl3f68lnwAlvAfjbv55yhtkq80qnsxd7jAvft36th0zxm7q4tg5xj9r3dxfx7gq1jgp1rzwzy9yj3zxplhArw90877jcw5qhq9rvcdr23gb038kp8mwsfj6g4j3lr7rxk6j2dyjyzny0vmkb2896gxb5qwl1)  
-![](https://api1.iloveimg.com/v1/download/mxd32j7nggjxgwc62jf1A5nhw54426x9Asjcm1l05p0g6wttfd1mt63qtsqlz3m0mzqzzk66500Ab92A1rcj1z6zr2qq5cbcwx914qr7A5j1ny5mlcqzv9njhc2lqq05r7951wjAh5kdwvsxxlhpks5q1fnl7rqyz6c5mns0cckzjp400dyq)      
-![](https://api8.iloveimg.com/v1/download/7hk76Aq0h2f5vnwdmAkw31xjmkvjwks3t4th93r4qxnc8bv0zzk9mr3ybAkhlgrfz4Arnztr1gl3gg9jb3vmhj51ctnx0whzxvtm16n13qz8w025b6t6825ycrx7sy32xk3Aspm627kxp44q6d7jf5r735md99yp05j4g0wky8Ayyzy7vt6q)       
-![](https://api1.iloveimg.com/v1/download/255qqzk2vrx0fws3Am3t776r27848A0nx569prbdyAf0sAsff76k8mdlnck7ssk1f70gsA2fyr9ngjjj4y5btk03hp0ds8f1zm9l80l7ndsf1sbk66g9p6kppyvxvk18g2mm6v9zjvjmf41789vcvk74px40pq5rd67vndn12n9h45jklbxq)     
+Python
+JavaScript
+TypeScript
+C
+But I don't mind trying to work with other ones!
