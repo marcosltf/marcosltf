@@ -1,3 +1,5 @@
+##ACCOUNT FOR SCHOOLING PURPOSES, MY REAL ACCOUNT WILL REMAIN PRIVATE
+
 ## 💜 Hello my name is <strong>Marcos!</strong>
 - 15y
 - Linux Enthusiast     <code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Javascript"/></code>
