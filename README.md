@@ -3,9 +3,9 @@
 - 18y
 - Linux enthusiast since 14     <code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Javascript"/></code>
 
-🔭 Currently working in school projects & Learning PhP
+🔭 Currently working in personal projects
 
-💬 You can contact me at: marcos.existence@protonmail.com.
+💬 You can contact me at: marcos@wiredia.dev.
 
 ----
 
@@ -20,6 +20,3 @@
 <code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
 ---
-
-## ⭐ Information on me
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ForgottenHope&show_icons=true)
