@@ -1,7 +1,7 @@
 
 ## Hi, I'm <strong>Marcos</strong>
 - 18y
-- Linux Enthusiast     <code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Javascript"/></code>
+- Linux enthusiast since 14     <code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Javascript"/></code>
 
 🔭 Currently working in school projects & Learning PhP
 
