@@ -1,15 +1,8 @@
-
-## Hi, I'm <strong>Marcos</strong>
-- 18y
-- Linux enthusiast since 14     <code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Javascript"/></code>
-
-🔭 Currently working in personal projects
-
-💬 You can contact me at: marcos@wiredia.dev.
+you can contact me at: marcos@wiredia.dev.
 
 ----
 
-## 🚀 What do I like using?
+
 
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
